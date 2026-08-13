@@ -1,0 +1,1230 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Dopamine",
+          "description": "The audio player that keeps it simple",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-08T15:57:16Z",
+            "owner": "digimezzo",
+            "repo": "dopamine",
+            "stars": 2310
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rhythmbox",
+          "description": "integrated music management application",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-02T07:53:02Z",
+            "owner": "GNOME",
+            "repo": "rhythmbox",
+            "stars": 244
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OooPlayer",
+          "description": "Lightweight music player for Windows",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Pascal",
+            "last_commit": "2020-05-10T18:12:02Z",
+            "owner": "ozok",
+            "repo": "OooPlayer",
+            "stars": 22
+          }
+        }
+      ],
+      "title": "Audio Players"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Readest",
+          "description": "a modern and feature-rich ebook reader",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T03:27:40Z",
+            "owner": "readest",
+            "repo": "readest",
+            "stars": 23355
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Okular",
+          "description": "universal document viewer",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T18:29:23Z",
+            "owner": "KDE",
+            "repo": "okular",
+            "stars": 1461
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Evince",
+          "description": "document viewer for multiple document formats",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T06:57:02Z",
+            "owner": "GNOME",
+            "repo": "evince",
+            "stars": 376
+          }
+        }
+      ],
+      "title": "Documents"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Flutter",
+          "description": "mobile app SDK to help developers and designers build modern mobile apps for iOS and Android",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-08-13T03:15:13Z",
+            "owner": "flutter",
+            "repo": "flutter",
+            "stars": 178374
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Windows Terminal",
+          "description": "tabstyle windows command line/shell tool. Works with Subsystem/WSL and more. Custom look through integrated .json file",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T23:15:56Z",
+            "owner": "microsoft",
+            "repo": "terminal",
+            "stars": 104591
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Daytona",
+          "description": "The Open Source Dev Environment Manager",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-24T07:12:07Z",
+            "owner": "daytonaio",
+            "repo": "daytona",
+            "stars": 72022
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Refine",
+          "description": "an open source React-based framework for building CRUD apps",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-05T15:19:38Z",
+            "owner": "refinedev",
+            "repo": "refine",
+            "stars": 35501
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "React Admin",
+          "description": "The React Framework for B2B Apps",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-09T12:00:10Z",
+            "owner": "marmelab",
+            "repo": "react-admin",
+            "stars": 26887
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rancher",
+          "description": "a complete container management platform",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T23:12:22Z",
+            "owner": "rancher",
+            "repo": "rancher",
+            "stars": 25847
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GitLab",
+          "description": "web-based Git repository manager with wiki and issue tracking features",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-13T03:16:14Z",
+            "owner": "gitlabhq",
+            "repo": "gitlabhq",
+            "stars": 24534
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Node-RED",
+          "description": "programming tool for wiring together hardware devices, APIs and online services in new and interesting ways",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-01T07:52:46Z",
+            "owner": "node-red",
+            "repo": "node-red",
+            "stars": 23521
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Taipy",
+          "description": "open-source Python library for building web applications’ GUI and back-end management.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T02:47:18Z",
+            "owner": "Avaiga",
+            "repo": "taipy",
+            "stars": 19426
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ddosify",
+          "description": "Distributed Performance Testing Platform",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-03-04T10:47:26Z",
+            "owner": "getanteon",
+            "repo": "anteon",
+            "stars": 8522
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Manifest",
+          "description": "Open-source Backend-as-a-Service that enables developers to create backends effortlessly.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T14:17:18Z",
+            "owner": "mnfst",
+            "repo": "manifest",
+            "stars": 7432
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bifrost by Maxim AI",
+          "description": "Bifrost is a high-performance LLM gateway that connects 1000+ models through a single API interface with extremely high throughput. 40x faster than Litellm.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T00:41:51Z",
+            "owner": "maximhq",
+            "repo": "bifrost",
+            "stars": 7273
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Potpie",
+          "description": "Use pre-built AI Agents for your codebase to ask questions, debug, test and system design or build your own purpose built agents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T11:05:05Z",
+            "owner": "potpie-ai",
+            "repo": "potpie",
+            "stars": 5571
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Solito",
+          "description": "A library dedicated to unifying React Native with Next.js, primarily focused on navigation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-06T23:36:14Z",
+            "owner": "nandorojo",
+            "repo": "solito",
+            "stars": 4092
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tolgee",
+          "description": "developer & translator friendly localization platform",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T17:56:55Z",
+            "owner": "tolgee",
+            "repo": "tolgee-platform",
+            "stars": 4065
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Markstream",
+          "description": "multi-framework streaming Markdown renderer for AI chat interfaces",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2026-08-12T22:48:25Z",
+            "owner": "Simon-He95",
+            "repo": "markstream-vue",
+            "stars": 2881
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Yaade",
+          "description": "Yaade is an open-source, self-hosted, collaborative API development environment",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-09-08T11:57:37Z",
+            "owner": "EsperoTech",
+            "repo": "yaade",
+            "stars": 1986
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hook0",
+          "description": "webhooks-as-a-service (WaaS) for SaaS developers",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T03:27:43Z",
+            "owner": "hook0",
+            "repo": "hook0",
+            "stars": 1475
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Panora",
+          "description": "Alternative to Merge.dev - Add an integration catalog to your SaaS in minutes, not months",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2025-10-26T00:04:02Z",
+            "owner": "panoratech",
+            "repo": "Panora",
+            "stars": 1033
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Revert",
+          "description": "An open source unified API to build B2B product integrations",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-04-07T06:37:36Z",
+            "owner": "revertinc",
+            "repo": "revert",
+            "stars": 1012
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fractal",
+          "description": "hierarchical agent loops with recursive self-organization, bounded by caps on depth, cost, and time",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-06T15:25:40Z",
+            "owner": "plasma-ai",
+            "repo": "fractal",
+            "stars": 688
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Genezio CLI",
+          "description": "cli tool that helps you deploy your JS/TS/Dart website (backend + frontend) to genez.io's serverless infrastructure for free.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-12-08T16:03:46Z",
+            "owner": "Genez-io",
+            "repo": "genezio",
+            "stars": 486
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Specmatic",
+          "description": "an open source contract testing, mocking and backward compatibility testing tool for REST APIs using OpenAPI specifications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-13T00:37:41Z",
+            "owner": "specmatic",
+            "repo": "specmatic",
+            "stars": 393
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dorothy",
+          "description": "desktop app to orchestrate multiple AI CLI agents (Claude Code, Codex, Gemini) with automations and Kanban management",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-07T13:21:25Z",
+            "owner": "Charlie85270",
+            "repo": "Dorothy",
+            "stars": 336
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Telert",
+          "description": "CLI / Python util for command completion and system event alerts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-07T08:35:57Z",
+            "owner": "navig-me",
+            "repo": "telert",
+            "stars": 286
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GoCodeo",
+          "description": "A CLI-first open-source AI tool for building full-stack apps in minutes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-26T04:50:18Z",
+            "owner": "jatingargiitk",
+            "repo": "saas-builder",
+            "stars": 222
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DEM",
+          "description": "Containerized Development Environment Manager for Embedded Development",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-31T12:45:55Z",
+            "owner": "axem-solutions",
+            "repo": "dem",
+            "stars": 137
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pixeleye",
+          "description": "visual review & testing platform for catching UI bugs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-09-29T03:05:09Z",
+            "owner": "pixeleye-io",
+            "repo": "pixeleye",
+            "stars": 131
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ohmyzsh",
+          "description": "an open source, community-driven framework for managaing your Zsh configurations",
+          "children": []
+        }
+      ],
+      "title": "Developer Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Mailspring",
+          "description": "💌 A beautiful, fast and fully open source mail client for Mac, Windows and Linux.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T20:38:36Z",
+            "owner": "Foundry376",
+            "repo": "Mailspring",
+            "stars": 17740
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mail-in-a-box",
+          "description": "one-click, easy-to-deploy SMTP+everything else server",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-24T17:19:22Z",
+            "owner": "mail-in-a-box",
+            "repo": "mailinabox",
+            "stars": 15387
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mailcow",
+          "description": "The mailserver suite with the 'moo' – 🐮 + 🐋 = 💕",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-05T07:00:52Z",
+            "owner": "mailcow",
+            "repo": "mailcow-dockerized",
+            "stars": 13261
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mailu",
+          "description": "simple yet full-featured mail server as a set of Docker images",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T13:53:04Z",
+            "owner": "Mailu",
+            "repo": "Mailu",
+            "stars": 7454
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Geary",
+          "description": "Geary is an email application built around conversations, for the GNOME desktop.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vala",
+            "last_commit": "2026-05-28T16:33:50Z",
+            "owner": "GNOME",
+            "repo": "geary",
+            "stars": 387
+          }
+        }
+      ],
+      "title": "Email"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "OpenRA",
+          "description": "OpenRA is an open source project that recreates and modernizes classic real time strategy games, like Red Alert, Command & Conquer, and Dune 2000",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-01T16:36:18Z",
+            "owner": "OpenRA",
+            "repo": "OpenRA",
+            "stars": 17220
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Reia",
+          "description": "Reia is an RPG game action-adventure MMO focusing heavily on story, combat, and an open-world sandox adventure. Built with Godot, Rust, and Zig.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "GDScript",
+            "last_commit": "2026-08-12T22:25:10Z",
+            "owner": "Quaint-Studios",
+            "repo": "Reia",
+            "stars": 904
+          }
+        }
+      ],
+      "title": "Games"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Caesium Image Compressor",
+          "description": "advanced compression tool for photos and images (JPG, PNG, GIF)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-04-07T08:12:55Z",
+            "owner": "Lymphatus",
+            "repo": "caesium-image-compressor",
+            "stars": 6197
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Auto 1111 SDK",
+          "description": "SDK for editing and generating images",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-05T08:44:13Z",
+            "owner": "Auto1111SDK",
+            "repo": "Auto1111SDK",
+            "stars": 412
+          }
+        }
+      ],
+      "title": "Graphics"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Syncthing",
+          "description": "peer-to-peer file synchronization",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T21:08:02Z",
+            "owner": "syncthing",
+            "repo": "syncthing",
+            "stars": 87623
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sshuttle",
+          "description": "Transparent proxy server that works as a poor man's VPN",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T04:49:18Z",
+            "owner": "sshuttle",
+            "repo": "sshuttle",
+            "stars": 13513
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nmap",
+          "description": "Security Scanner, Port Scanner, & Network Exploration Tool",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T19:30:06Z",
+            "owner": "nmap",
+            "repo": "nmap",
+            "stars": 13344
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BunkerWeb",
+          "description": "open-source and next-gen Web Application Firewall (WAF)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T16:03:37Z",
+            "owner": "bunkerity",
+            "repo": "bunkerweb",
+            "stars": 10803
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Firezone",
+          "description": "self-hosted WireGuard® based VPN Server & Firewall",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Elixir",
+            "last_commit": "2026-08-13T04:00:00Z",
+            "owner": "firezone",
+            "repo": "firezone",
+            "stars": 9013
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NAPALM",
+          "description": "NAPALM (Network Automation and Programmability Abstraction Layer with Multivendor support)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T20:44:53Z",
+            "owner": "napalm-automation",
+            "repo": "napalm",
+            "stars": 2487
+          }
+        }
+      ],
+      "title": "Networking"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Linux",
+          "description": "an operating system kernel released by Linus Torvalds",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T15:31:28Z",
+            "owner": "torvalds",
+            "repo": "linux",
+            "stars": 242657
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SerenityOS",
+          "description": "SerenityOS is a love letter to '90s user interfaces with a custom Unix-like core",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T03:45:49Z",
+            "owner": "SerenityOS",
+            "repo": "serenity",
+            "stars": 33753
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CachyOS",
+          "description": "Blazingly Fast & Customizable Linux distribution (Arch based)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-11T16:32:42Z",
+            "owner": "CachyOS",
+            "repo": "linux-cachyos",
+            "stars": 4214
+          }
+        }
+      ],
+      "title": "OS/Distributions"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Huginn",
+          "description": "a system for building agents that perform automated tasks for you online",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-11T07:45:15Z",
+            "owner": "huginn",
+            "repo": "huginn",
+            "stars": 49782
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dub",
+          "description": "alternative to Bitly",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T02:00:28Z",
+            "owner": "dubinc",
+            "repo": "dub",
+            "stars": 24314
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Documenso",
+          "description": "Alternative to DocuSign",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T03:13:53Z",
+            "owner": "documenso",
+            "repo": "documenso",
+            "stars": 14372
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VeraCrypt",
+          "description": "disk encryption software for Windows, Mac OSX and Linux",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-15T13:49:22Z",
+            "owner": "veracrypt",
+            "repo": "VeraCrypt",
+            "stars": 11246
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tyk",
+          "description": "open source API gateway",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T15:18:27Z",
+            "owner": "TykTechnologies",
+            "repo": "tyk",
+            "stars": 10792
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SD Maid 2/SE",
+          "description": "Android's most thorough cleaning tool",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-12T13:28:42Z",
+            "owner": "d4rken-org",
+            "repo": "sdmaid-se",
+            "stars": 7257
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ZoneMinder",
+          "description": "state-of-the-art video surveillance software system",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-13T02:56:17Z",
+            "owner": "ZoneMinder",
+            "repo": "zoneminder",
+            "stars": 5905
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Neo-Store",
+          "description": "A modern feature-rich F-Droid client",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-04-25T23:48:57Z",
+            "owner": "NeoApplications",
+            "repo": "Neo-Store",
+            "stars": 4897
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hi.Events",
+          "description": "Open-source and feature-packed event management and ticket selling platform.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-11T20:54:28Z",
+            "owner": "HiEventsDev",
+            "repo": "Hi.Events",
+            "stars": 3970
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Common Voice",
+          "description": "open and publicly available dataset of voices",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T01:49:07Z",
+            "owner": "common-voice",
+            "repo": "common-voice",
+            "stars": 3479
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HortusFox",
+          "description": "Self-hosted collaborative plant management system for your local environment",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-07-31T13:20:31Z",
+            "owner": "danielbrendel",
+            "repo": "hortusfox-web",
+            "stars": 1636
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Freeter",
+          "description": "an app for Windows, Mac OSX and Linux that allows to gather everything you need for work in one place, organized by projects and workflows, and have a quick access to them",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-27T02:53:50Z",
+            "owner": "FreeterApp",
+            "repo": "Freeter",
+            "stars": 1021
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AWStats",
+          "description": "free powerful and featureful tool that generates advanced web, streaming, ftp or mail server statistics, graphically",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Perl",
+            "last_commit": "2025-11-10T10:16:51Z",
+            "owner": "eldy",
+            "repo": "AWStats",
+            "stars": 434
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Qopy",
+          "description": "Fast, Beautiful, Versatile clipboard manager written in Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2026-03-15T21:43:39Z",
+            "owner": "0PandaDEV",
+            "repo": "Qopy",
+            "stars": 396
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "crypt.fyi",
+          "description": "Ephemeral zero-knowledge sensitive data sharing",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T21:12:20Z",
+            "owner": "osbytes",
+            "repo": "crypt.fyi",
+            "stars": 141
+          }
+        }
+      ],
+      "title": "Other"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "KeeWeb",
+          "description": "cross-platform password manager compatible with KeePass",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-05-08T03:29:03Z",
+            "owner": "keeweb",
+            "repo": "keeweb",
+            "stars": 12979
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Password Safe",
+          "description": "password manager",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T05:46:40Z",
+            "owner": "pwsafe",
+            "repo": "pwsafe",
+            "stars": 864
+          }
+        }
+      ],
+      "title": "Password Managers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Mastodon",
+          "description": "social network server",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-12T22:16:01Z",
+            "owner": "mastodon",
+            "repo": "mastodon",
+            "stars": 50204
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rocket.Chat",
+          "description": "the ultimate webchat platform",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T02:10:38Z",
+            "owner": "RocketChat",
+            "repo": "Rocket.Chat",
+            "stars": 45967
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Matrix",
+          "description": "open network for secure, decentralized communication",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2024-04-26T15:47:23Z",
+            "owner": "matrix-org",
+            "repo": "synapse",
+            "stars": 12103
+          }
+        }
+      ],
+      "title": "Social"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Visual Studio Code",
+          "description": "a code editor redefined and optimized for building and debugging modern web and cloud applications",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T03:09:50Z",
+            "owner": "microsoft",
+            "repo": "vscode",
+            "stars": 188641
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vim",
+          "description": "a greatly improved version of the good old UNIX editor Vi",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vim Script",
+            "last_commit": "2026-08-12T20:24:13Z",
+            "owner": "vim",
+            "repo": "vim",
+            "stars": 40737
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Notepad++",
+          "description": "a notepad replacement that supports several languages",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T00:24:37Z",
+            "owner": "notepad-plus-plus",
+            "repo": "notepad-plus-plus",
+            "stars": 28992
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Treehouse",
+          "description": "a lightweight outliner app you can use in the browser or to build your own custom application.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-03-31T03:59:09Z",
+            "owner": "treehousedev",
+            "repo": "treehouse",
+            "stars": 188
+          }
+        }
+      ],
+      "title": "Text Editors"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Open Broadcaster Software",
+          "description": "streaming and recording program maintained by the OBS Project",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-11T00:39:00Z",
+            "owner": "obsproject",
+            "repo": "obs-studio",
+            "stars": 74919
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HandBrake",
+          "description": "a GPL-licensed, multiplatform, multithreaded video transcoder",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T04:59:16Z",
+            "owner": "HandBrake",
+            "repo": "HandBrake",
+            "stars": 23994
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shotcut",
+          "description": "a free, open source, cross-platform video editor",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T03:40:52Z",
+            "owner": "mltframework",
+            "repo": "shotcut",
+            "stars": 14911
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenShot Video Editor",
+          "description": "a video editor for FreeBSD, Linux, macOS, and Windows",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T02:42:45Z",
+            "owner": "OpenShot",
+            "repo": "openshot-qt",
+            "stars": 6163
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Avidemux",
+          "description": "video editing program designed for video editing and video processing",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T23:43:14Z",
+            "owner": "mean00",
+            "repo": "avidemux2",
+            "stars": 957
+          }
+        }
+      ],
+      "title": "Video Software"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:00:02.505Z",
+    "original_repository": "sereneblue/awesome-oss",
+    "original_repository_sha": "90e0461fbdb8e0f1bff55b24bbcf38f20da0c85f",
+    "enhanced_repository": "enhansome/enhansome-oss",
+    "enhanced_repository_description": null,
+    "title": "awesome-oss with stars"
+  }
+}
