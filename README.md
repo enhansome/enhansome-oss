@@ -41,7 +41,7 @@ You don't have to be a developer to contribute to your favorite open source proj
 ### Audio Players
 
 * [Dopamine](https://digimezzo.github.io/site/software) - The audio player that keeps it simple<br/>
-  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/digimezzo/dopamine) ⭐ 2,314 | 🐛 386 | 🌐 TypeScript | 📅 2026-08-16[![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://ko-fi.com/S6S11K63U)
+  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/digimezzo/dopamine) ⭐ 2,312 | 🐛 387 | 🌐 TypeScript | 📅 2026-08-16[![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://ko-fi.com/S6S11K63U)
 * [Rhythmbox](https://projects-old.gnome.org/rhythmbox/) - integrated music management application<br/>
   [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/GNOME/rhythmbox) ⭐ 244 | 🐛 0 | 🌐 C | 📅 2026-08-16 [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.gnome.org/support-gnome/donate/)
 * [OooPlayer](https://github.com/ozok/OooPlayer) ⭐ 22 | 🐛 2 | 🌐 Pascal | 📅 2020-05-10 - Lightweight music player for Windows<br/>
@@ -54,9 +54,9 @@ You don't have to be a developer to contribute to your favorite open source proj
 ### Documents
 
 * [Readest](https://www.readest.com) - a modern and feature-rich ebook reader<br/>
-  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/readest/readest) ⭐ 23,451 | 🐛 108 | 🌐 TypeScript | 📅 2026-08-16
+  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/readest/readest) ⭐ 23,483 | 🐛 109 | 🌐 TypeScript | 📅 2026-08-17
 * [Okular](https://okular.kde.org/) - universal document viewer<br/>
-  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/KDE/okular) ⭐ 1,467 | 🐛 0 | 🌐 C++ | 📅 2026-08-16 [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://kde.org/community/donations/)
+  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/KDE/okular) ⭐ 1,472 | 🐛 0 | 🌐 C++ | 📅 2026-08-17 [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://kde.org/community/donations/)
 * [Evince](https://wiki.gnome.org/Apps/Evince) - document viewer for multiple document formats<br/>
   [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/GNOME/evince) ⭐ 376 | 🐛 0 | 🌐 C | 📅 2026-08-12 [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.gnome.org/support-gnome/donate/)
 * [Etherpad](http://etherpad.org/) - web-based collaborative real-time editor<br/>
@@ -71,41 +71,41 @@ You don't have to be a developer to contribute to your favorite open source proj
 ### Developer Tools
 
 * [Flutter](https://flutter.io/) - mobile app SDK to help developers and designers build modern mobile apps for iOS and Android<br/>
-  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/flutter/flutter/blob/master/CONTRIBUTING.md) ⭐ 178,416 | 🐛 13,147 | 🌐 Dart | 📅 2026-08-16
+  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/flutter/flutter/blob/master/CONTRIBUTING.md) ⭐ 178,393 | 🐛 13,164 | 🌐 Dart | 📅 2026-08-17
 * [Windows Terminal](https://apps.microsoft.com/store/detail/windows-terminal/9N0DX20HK701?hl=de-de\&gl=DE) - tabstyle windows command line/shell tool. Works with Subsystem/WSL and more. Custom look through integrated .json file<br/>
-  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/microsoft/terminal/blob/main/CONTRIBUTING.md) ⭐ 104,623 | 🐛 1,738 | 🌐 C++ | 📅 2026-08-15
+  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/microsoft/terminal/blob/main/CONTRIBUTING.md) ⭐ 104,622 | 🐛 1,737 | 🌐 C++ | 📅 2026-08-15
 * [Daytona](https://www.daytona.io/) - The Open Source Dev Environment Manager<br/>
-  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/daytonaio/daytona) ⭐ 71,997 | 🐛 441 | 📅 2026-07-24
+  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/daytonaio/daytona) ⭐ 71,982 | 🐛 442 | 📅 2026-07-24
 * [Refine](https://refine.dev) - an open source React-based framework for building CRUD apps<br/>
-  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/refinedev/refine) ⭐ 35,525 | 🐛 85 | 🌐 TypeScript | 📅 2026-06-05 [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://github.com/sponsors/refinedev)
+  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/refinedev/refine) ⭐ 35,523 | 🐛 85 | 🌐 TypeScript | 📅 2026-06-05 [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://github.com/sponsors/refinedev)
 * [React Admin](https://marmelab.com/react-admin/) - The React Framework for B2B Apps<br/>
-  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/marmelab/react-admin) ⭐ 26,891 | 🐛 71 | 🌐 TypeScript | 📅 2026-08-09
+  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/marmelab/react-admin) ⭐ 26,894 | 🐛 71 | 🌐 TypeScript | 📅 2026-08-09
 * [Rancher](https://rancher.com/) - a complete container management platform<br/>
-  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/rancher/rancher) ⭐ 25,853 | 🐛 3,342 | 🌐 Go | 📅 2026-08-16
+  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/rancher/rancher) ⭐ 25,854 | 🐛 3,348 | 🌐 Go | 📅 2026-08-17
 * [GitLab](https://gitlab.com) - web-based Git repository manager with wiki and issue tracking features<br/>
-  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/gitlabhq/gitlabhq) ⭐ 24,531 | 🐛 37 | 🌐 Ruby | 📅 2026-08-16 [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://about.gitlab.com/about/)
+  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/gitlabhq/gitlabhq) ⭐ 24,532 | 🐛 37 | 🌐 Ruby | 📅 2026-08-17 [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://about.gitlab.com/about/)
 * [Node-RED](https://nodered.org/) - programming tool for wiring together hardware devices, APIs and online services in new and interesting ways<br/>
-  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/node-red/node-red/blob/master/CONTRIBUTING.md) ⭐ 23,534 | 🐛 320 | 🌐 JavaScript | 📅 2026-08-16
+  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/node-red/node-red/blob/master/CONTRIBUTING.md) ⭐ 23,541 | 🐛 321 | 🌐 JavaScript | 📅 2026-08-16
 * [Taipy](https://www.taipy.io) - open-source Python library for building web applications’ GUI and back-end management.
   [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/Avaiga/taipy) ⭐ 19,427 | 🐛 224 | 🌐 Python | 📅 2026-08-10
-* [Ddosify](https://github.com/ddosify/ddosify) ⭐ 8,520 | 🐛 19 | 🌐 Go | 📅 2026-03-04 - Distributed Performance Testing Platform<br/>
-  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/ddosify/ddosify/blob/master/CONTRIBUTING.md) ⭐ 8,520 | 🐛 19 | 🌐 Go | 📅 2026-03-04
+* [Ddosify](https://github.com/ddosify/ddosify) ⭐ 8,519 | 🐛 19 | 🌐 Go | 📅 2026-03-04 - Distributed Performance Testing Platform<br/>
+  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/ddosify/ddosify/blob/master/CONTRIBUTING.md) ⭐ 8,519 | 🐛 19 | 🌐 Go | 📅 2026-03-04
 * [Manifest](https://manifest.build/) - Open-source Backend-as-a-Service that enables developers to create backends effortlessly.<br/>
-  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/mnfst/manifest/discussions/categories/feature-request) ⭐ 7,447 | 🐛 113 | 🌐 TypeScript | 📅 2026-08-15
+  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/mnfst/manifest/discussions/categories/feature-request) ⭐ 7,449 | 🐛 116 | 🌐 TypeScript | 📅 2026-08-17
 * [Bifrost by Maxim AI](https://www.getmaxim.ai/bifrost/) - Bifrost is a high-performance LLM gateway that connects 1000+ models through a single API interface with extremely high throughput. 40x faster than Litellm. <br/>
-  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/maximhq/bifrost) ⭐ 7,342 | 🐛 874 | 🌐 Go | 📅 2026-08-16
+  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/maximhq/bifrost) ⭐ 7,370 | 🐛 895 | 🌐 Go | 📅 2026-08-17
 * [Potpie](https://potpie.ai) - Use pre-built AI Agents for your codebase to ask questions, debug, test and system design or build your own purpose built agents.\
-  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/potpie-ai/potpie/blob/main/contributing.md) ⭐ 5,577 | 🐛 104 | 🌐 Python | 📅 2026-08-14
+  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/potpie-ai/potpie/blob/main/contributing.md) ⭐ 5,578 | 🐛 104 | 🌐 Python | 📅 2026-08-14
 * [Solito](https://solito.dev/) - A library dedicated to unifying React Native with Next.js, primarily focused on navigation.<br/>
   [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/nandorojo/solito) ⭐ 4,090 | 🐛 27 | 🌐 TypeScript | 📅 2026-08-06 [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://github.com/sponsors/nandorojo)
 * [Tolgee](https://tolgee.io) - developer & translator friendly localization platform<br/>
-  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/tolgee/tolgee-platform/blob/main/CONTRIBUTING.md) ⭐ 4,070 | 🐛 197 | 🌐 TypeScript | 📅 2026-08-15 [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://github.com/sponsors/tolgee)
+  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/tolgee/tolgee-platform/blob/main/CONTRIBUTING.md) ⭐ 4,073 | 🐛 196 | 🌐 TypeScript | 📅 2026-08-17 [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://github.com/sponsors/tolgee)
 * [Markstream](https://markstream.simonhe.me/) - multi-framework streaming Markdown renderer for AI chat interfaces<br/>
-  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/Simon-He95/markstream-vue/blob/main/CONTRIBUTING.md) ⭐ 2,892 | 🐛 0 | 🌐 Vue | 📅 2026-08-14
+  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/Simon-He95/markstream-vue/blob/main/CONTRIBUTING.md) ⭐ 2,895 | 🐛 1 | 🌐 Vue | 📅 2026-08-17
 * [Yaade](https://docs.yaade.io/) - Yaade is an open-source, self-hosted, collaborative API development environment<br/>
-  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/EsperoTech/yaade) ⭐ 1,987 | 🐛 58 | 🌐 JavaScript | 📅 2025-09-08
+  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/EsperoTech/yaade) ⭐ 1,985 | 🐛 58 | 🌐 JavaScript | 📅 2025-09-08
 * [Hook0](https://www.hook0.com/) - webhooks-as-a-service (WaaS) for SaaS developers<br/>
-  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/Hook0/hook0/blob/master/contributing.md) ⭐ 1,476 | 🐛 5 | 🌐 Rust | 📅 2026-08-16
+  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/Hook0/hook0/blob/master/contributing.md) ⭐ 1,477 | 🐛 5 | 🌐 Rust | 📅 2026-08-17
 * [Panora](https://panora.dev) - Alternative to Merge.dev - Add an integration catalog to your SaaS in minutes, not months\
   [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/panoratech/Panora/blob/main/CONTRIBUTING.md) ⚠️ Archived
 * [Revert](https://github.com/revertinc/revert) ⭐ 1,013 | 🐛 63 | 🌐 TypeScript | 📅 2025-04-07 - An open source unified API to build B2B product integrations<br/>
@@ -115,9 +115,9 @@ You don't have to be a developer to contribute to your favorite open source proj
 * [Genezio CLI](https://genez.io) - cli tool that helps you deploy your JS/TS/Dart website (backend + frontend) to [genez.io](https://genez.io)'s serverless infrastructure for free.<br/>
   [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/Genez-io/genezio/blob/master/CONTRIBUTING.md) ⭐ 486 | 🐛 16 | 🌐 TypeScript | 📅 2025-12-08
 * [Specmatic](https://specmatic.io) - an open source contract testing, mocking and backward compatibility testing tool for REST APIs using OpenAPI specifications.<br/>
-  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/specmatic/specmatic/blob/main/CONTRIBUTING.md) ⭐ 395 | 🐛 78 | 🌐 Kotlin | 📅 2026-08-15
+  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/specmatic/specmatic/blob/main/CONTRIBUTING.md) ⭐ 395 | 🐛 78 | 🌐 Kotlin | 📅 2026-08-17
 * [Dorothy](https://dorothyai.app) - desktop app to orchestrate multiple AI CLI agents (Claude Code, Codex, Gemini) with automations and Kanban management<br/>
-  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/Charlie85270/Dorothy) ⭐ 337 | 🐛 11 | 🌐 TypeScript | 📅 2026-07-07
+  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/Charlie85270/Dorothy) ⭐ 338 | 🐛 11 | 🌐 TypeScript | 📅 2026-07-07
 * [Telert](https://github.com/navig-me/telert) ⭐ 286 | 🐛 8 | 🌐 Python | 📅 2026-08-07 - CLI / Python util for command completion and system event alerts.<br/>
   [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/navig-me/telert/) ⭐ 286 | 🐛 8 | 🌐 Python | 📅 2026-08-07[![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://buymeacoffee.com/mihirk)
 * [GoCodeo](https://github.com/jatingarg619/saas-builder) ⭐ 223 | 🐛 4 | 🌐 Python | 📅 2026-07-26 - A CLI-first open-source AI tool for building full-stack apps in minutes.<br/>
@@ -149,13 +149,13 @@ You don't have to be a developer to contribute to your favorite open source proj
 ### Email
 
 * [Mailspring](https://getmailspring.com/) - 💌 A beautiful, fast and fully open source mail client for Mac, Windows and Linux.<br/>
-  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/Foundry376/Mailspring?tab=contributing-ov-file) ⭐ 17,743 | 🐛 19 | 🌐 JavaScript | 📅 2026-08-14
+  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/Foundry376/Mailspring?tab=contributing-ov-file) ⭐ 17,741 | 🐛 17 | 🌐 JavaScript | 📅 2026-08-17
 * [Mail-in-a-box](https://mailinabox.email/) - one-click, easy-to-deploy SMTP+everything else server<br/>
-  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/mail-in-a-box/mailinabox) ⭐ 15,389 | 🐛 612 | 🌐 Python | 📅 2026-05-24
+  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/mail-in-a-box/mailinabox) ⭐ 15,389 | 🐛 613 | 🌐 Python | 📅 2026-05-24
 * [Mailcow](https://mailcow.email/) - The mailserver suite with the 'moo' – 🐮 + 🐋 = 💕<br/>
-  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/mailcow/mailcow-dockerized/blob/master/CONTRIBUTING.md) ⭐ 13,275 | 🐛 515 | 🌐 JavaScript | 📅 2026-08-13 [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.servercow.de/mailcow?lang=en)
+  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/mailcow/mailcow-dockerized/blob/master/CONTRIBUTING.md) ⭐ 13,282 | 🐛 515 | 🌐 JavaScript | 📅 2026-08-17 [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.servercow.de/mailcow?lang=en)
 * [Mailu](https://mailu.io/) - simple yet full-featured mail server as a set of Docker images<br/>
-  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/Mailu/Mailu) ⭐ 7,457 | 🐛 125 | 🌐 Python | 📅 2026-08-12
+  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/Mailu/Mailu) ⭐ 7,454 | 🐛 124 | 🌐 Python | 📅 2026-08-17
 * [Geary](https://gitlab.gnome.org/GNOME/geary) - Geary is an email application built around conversations, for the GNOME desktop.<br/>
   [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/GNOME/geary?tab=contributing-ov-file) ⭐ 387 | 🐛 0 | 🌐 Vala | 📅 2026-05-28
 * [Dovecot](https://dovecot.org/) - IMAP and POP3 email server for Linux/UNIX-like systems<br/>
@@ -202,7 +202,7 @@ You don't have to be a developer to contribute to your favorite open source proj
 * [Perl Foundation](http://www.perlfoundation.org/) - non-profit organization dedicated to the advancement of Perl through discussion, collaboration, design, and code<br/>
   [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://donate.perlfoundation.org/)
 * [Privacy Guides](https://www.privacyguides.org/) - non-profit, socially motivated website that provides information for protecting your data security and privacy\
-  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/privacyguides/privacyguides.org) ⭐ 4,203 | 🐛 52 | 🌐 Markdown | 📅 2026-08-14 [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.privacyguides.org/about/donate/)
+  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/privacyguides/privacyguides.org) ⭐ 4,206 | 🐛 52 | 🌐 Markdown | 📅 2026-08-14 [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.privacyguides.org/about/donate/)
 * [Python Software Foundation](https://www.python.org/psf/) - non-profit organization devoted to the Python programming language<br/>
   [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.python.org/psf/membership)
 * [Ruby Central](http://www.rubycentral.org/) - non-profit organization dedicated to support and advocacy for the Ruby programming language<br/>
@@ -230,9 +230,9 @@ You don't have to be a developer to contribute to your favorite open source proj
 ### Games
 
 * [OpenRA](https://www.openra.net/) - OpenRA is an open source project that recreates and modernizes classic real time strategy games, like Red Alert, Command & Conquer, and Dune 2000<br />
-  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/OpenRA/OpenRA#contribute) ⭐ 17,232 | 🐛 1,602 | 🌐 C# | 📅 2026-08-01
+  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/OpenRA/OpenRA#contribute) ⭐ 17,241 | 🐛 1,602 | 🌐 C# | 📅 2026-08-01
 * [Reia](https://www.playreia.com/) - Reia is an RPG game action-adventure MMO focusing heavily on story, combat, and an open-world sandox adventure. Built with Godot, Rust, and Zig.<br />
-  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/Quaint-Studios/Reia#contributing) ⭐ 908 | 🐛 16 | 🌐 GDScript | 📅 2026-08-12 [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://opencollective.com/Reia)
+  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/Quaint-Studios/Reia#contributing) ⭐ 909 | 🐛 16 | 🌐 GDScript | 📅 2026-08-12 [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://opencollective.com/Reia)
 * [Beyond All Reason](https://www.beyondallreason.info/) - Beyond All Reason: Real-Time Strategy Redefined. Every unit, projectile and explosion simulated in real-time.<br />
   [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://www.beyondallreason.info/development/development-of-bar) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.beyondallreason.info/donate-to-bar)
 * [Cataclysm: Dark Days Ahead](https://cataclysmdda.org/) - Cataclysm: DDA is a turn-based survival game set in a post-apocalyptic world. Struggle to survive in a harsh, persistent, procedurally generated world<br />
@@ -249,12 +249,12 @@ You don't have to be a developer to contribute to your favorite open source proj
 ### Game Engines
 
 * [Godot: Game Engine](https://godotengine.org/) - Godot: Your free, open-source game engine. Develop your 2D & 3D games, cross-platform projects, or even XR ideas!<br />
-  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/godotengine/godot/blob/master/CONTRIBUTING.md) ⭐ 115,741 | 🐛 18,685 | 🌐 C++ | 📅 2026-08-16 [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://godotengine.org/donate/)
+  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/godotengine/godot/blob/master/CONTRIBUTING.md) ⭐ 115,739 | 🐛 18,712 | 🌐 C++ | 📅 2026-08-17 [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://godotengine.org/donate/)
 
 ### Graphics
 
 * [Caesium Image Compressor](https://saerasoft.com/caesium/) - advanced compression tool for photos and images (JPG, PNG, GIF)<br/>
-  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/Lymphatus/caesium-image-compressor) ⭐ 6,214 | 🐛 66 | 🌐 C++ | 📅 2026-04-07 [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://saerasoft.com/caesium/)
+  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/Lymphatus/caesium-image-compressor) ⭐ 6,218 | 🐛 66 | 🌐 C++ | 📅 2026-04-07 [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://saerasoft.com/caesium/)
 * [Auto 1111 SDK](https://github.com/saketh12/Auto1111SDK) ⭐ 412 | 🐛 24 | 🌐 Python | 📅 2024-06-05 - SDK for editing and generating images<br/>
   [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/saketh12/Auto1111SDK?tab=readme-ov-file#contributing) ⭐ 412 | 🐛 24 | 🌐 Python | 📅 2024-06-05
 * [Blender](https://blender.org/) - 3D Creation Software<br/>
@@ -290,17 +290,17 @@ You don't have to be a developer to contribute to your favorite open source proj
 ### Networking
 
 * [Syncthing](https://syncthing.net/) - peer-to-peer file synchronization<br/>
-  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/syncthing/syncthing) ⭐ 87,708 | 🐛 376 | 🌐 Go | 📅 2026-08-15 [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://syncthing.net/)
-* [sshuttle](https://github.com/sshuttle/sshuttle) ⭐ 13,519 | 🐛 211 | 🌐 Python | 📅 2026-08-12 - Transparent proxy server that works as a poor man's VPN<br/>
-  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/sshuttle/sshuttle) ⭐ 13,519 | 🐛 211 | 🌐 Python | 📅 2026-08-12
+  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/syncthing/syncthing) ⭐ 87,723 | 🐛 375 | 🌐 Go | 📅 2026-08-17 [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://syncthing.net/)
+* [sshuttle](https://github.com/sshuttle/sshuttle) ⭐ 13,520 | 🐛 214 | 🌐 Python | 📅 2026-08-17 - Transparent proxy server that works as a poor man's VPN<br/>
+  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/sshuttle/sshuttle) ⭐ 13,520 | 🐛 214 | 🌐 Python | 📅 2026-08-17
 * [Nmap](https://nmap.org/) - Security Scanner, Port Scanner, & Network Exploration Tool<br/>
-  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/nmap/nmap/blob/master/CONTRIBUTING.md) ⭐ 13,364 | 🐛 672 | 🌐 C | 📅 2026-08-14
+  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/nmap/nmap/blob/master/CONTRIBUTING.md) ⭐ 13,372 | 🐛 673 | 🌐 C | 📅 2026-08-14
 * [BunkerWeb](https://www.bunkerweb.io) - open-source and next-gen Web Application Firewall (WAF)<br/>
-  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/bunkerity/bunkerweb) ⭐ 10,811 | 🐛 179 | 🌐 Python | 📅 2026-08-14
-* [Firezone](https://github.com/firezone/firezone) ⭐ 9,035 | 🐛 411 | 🌐 Elixir | 📅 2026-08-16 - self-hosted WireGuard® based VPN Server & Firewall<br/>
-  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/firezone/firezone/blob/master/CONTRIBUTING.md) ⭐ 9,035 | 🐛 411 | 🌐 Elixir | 📅 2026-08-16
-* [NAPALM](https://github.com/napalm-automation/napalm) ⭐ 2,486 | 🐛 172 | 🌐 Python | 📅 2026-08-12 - NAPALM (Network Automation and Programmability Abstraction Layer with Multivendor support)<br/>
-  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/napalm-automation/napalm) ⭐ 2,486 | 🐛 172 | 🌐 Python | 📅 2026-08-12
+  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/bunkerity/bunkerweb) ⭐ 10,821 | 🐛 183 | 🌐 Python | 📅 2026-08-17
+* [Firezone](https://github.com/firezone/firezone) ⭐ 9,035 | 🐛 410 | 🌐 Elixir | 📅 2026-08-17 - self-hosted WireGuard® based VPN Server & Firewall<br/>
+  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/firezone/firezone/blob/master/CONTRIBUTING.md) ⭐ 9,035 | 🐛 410 | 🌐 Elixir | 📅 2026-08-17
+* [NAPALM](https://github.com/napalm-automation/napalm) ⭐ 2,486 | 🐛 173 | 🌐 Python | 📅 2026-08-12 - NAPALM (Network Automation and Programmability Abstraction Layer with Multivendor support)<br/>
+  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/napalm-automation/napalm) ⭐ 2,486 | 🐛 173 | 🌐 Python | 📅 2026-08-12
 * [Apache](https://httpd.apache.org/) - cross-platform web server software<br/>
   [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://wiki.apache.org/httpd/Contributing) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.apache.org/foundation/contributing.html)
 * [FreeNAS](https://www.freenas.org/) - Network Attached Storage software<br/>
@@ -334,12 +334,12 @@ You don't have to be a developer to contribute to your favorite open source proj
 
 ### OS/Distributions
 
-* [Linux](https://github.com/torvalds/linux) ⭐ 243,021 | 🐛 3 | 🌐 C | 📅 2026-08-15 - an operating system kernel released by Linus Torvalds<br/>
+* [Linux](https://github.com/torvalds/linux) ⭐ 242,991 | 🐛 3 | 🌐 C | 📅 2026-08-16 - an operating system kernel released by Linus Torvalds<br/>
   [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://kernelnewbies.org/) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.linuxfoundation.org/about/linux-donate)
 * [SerenityOS](https://serenityos.org/) - SerenityOS is a love letter to '90s user interfaces with a custom Unix-like core <br/>
-  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/SerenityOS/serenity/blob/master/CONTRIBUTING.md) ⭐ 33,758 | 🐛 739 | 🌐 C++ | 📅 2026-08-16
+  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/SerenityOS/serenity/blob/master/CONTRIBUTING.md) ⭐ 33,756 | 🐛 738 | 🌐 C++ | 📅 2026-08-17
 * [CachyOS](https://cachyos.org/) -  Blazingly Fast & Customizable Linux distribution (Arch based)<br/>
-  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/CachyOS/linux-cachyos/blob/master/CONTRIBUTING.md) ⭐ 4,241 | 🐛 86 | 🌐 Shell | 📅 2026-08-16 [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://github.com/CachyOS/linux-cachyos?tab=readme-ov-file#donations-appreciated-for-maintaining-repositories-and-build-server-thank-you-for-your-support) ⭐ 4,241 | 🐛 86 | 🌐 Shell | 📅 2026-08-16
+  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/CachyOS/linux-cachyos/blob/master/CONTRIBUTING.md) ⭐ 4,243 | 🐛 86 | 🌐 Shell | 📅 2026-08-16 [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://github.com/CachyOS/linux-cachyos?tab=readme-ov-file#donations-appreciated-for-maintaining-repositories-and-build-server-thank-you-for-your-support) ⭐ 4,243 | 🐛 86 | 🌐 Shell | 📅 2026-08-16
 * [Android-X86](http://www.android-x86.org/) - an unofficial initiative to port Google's Android mobile operating system to run on devices powered by AMD and Intel x86 processors<br/>
   [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](http://www.android-x86.org/donate) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](http://www.android-x86.org/donate)
 * [Arch Linux](https://www.archlinux.org) - a lightweight and flexible Linux distribution<br/>
@@ -375,34 +375,34 @@ You don't have to be a developer to contribute to your favorite open source proj
 
 ### Other
 
-* [Huginn](https://github.com/huginn/huginn) ⭐ 49,798 | 🐛 696 | 🌐 Ruby | 📅 2026-08-15 - a system for building agents that perform automated tasks for you online<br/>
-  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/huginn/huginn#join-us) ⭐ 49,798 | 🐛 696 | 🌐 Ruby | 📅 2026-08-15 [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.bountysource.com/teams/huginn/)
+* [Huginn](https://github.com/huginn/huginn) ⭐ 49,805 | 🐛 696 | 🌐 Ruby | 📅 2026-08-15 - a system for building agents that perform automated tasks for you online<br/>
+  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/huginn/huginn#join-us) ⭐ 49,805 | 🐛 696 | 🌐 Ruby | 📅 2026-08-15 [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.bountysource.com/teams/huginn/)
 * [Dub](https://dub.sh/) - alternative to Bitly\
-  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/steven-tey/dub#contributing) ⭐ 24,437 | 🐛 153 | 🌐 TypeScript | 📅 2026-08-16
+  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/steven-tey/dub#contributing) ⭐ 24,481 | 🐛 157 | 🌐 TypeScript | 📅 2026-08-17
 * [Documenso](https://www.documenso.com/) - Alternative to DocuSign\
-  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/documenso/documenso) ⭐ 14,521 | 🐛 254 | 🌐 TypeScript | 📅 2026-08-16
+  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/documenso/documenso) ⭐ 14,557 | 🐛 253 | 🌐 TypeScript | 📅 2026-08-17
 * [VeraCrypt](https://www.veracrypt.fr/en/Home.html) - disk encryption software for Windows, Mac OSX and Linux<br/>
-  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/veracrypt/VeraCrypt) ⭐ 11,291 | 🐛 466 | 🌐 C | 📅 2026-07-15 [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.veracrypt.fr/en/Donation.html)
+  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/veracrypt/VeraCrypt) ⭐ 11,301 | 🐛 466 | 🌐 C | 📅 2026-07-15 [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.veracrypt.fr/en/Donation.html)
 * [Tyk](https://tyk.io/) - open source API gateway<br/>
-  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/tykTechnologies/tyk) ⭐ 10,791 | 🐛 488 | 🌐 Go | 📅 2026-08-14
+  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/tykTechnologies/tyk) ⭐ 10,791 | 🐛 488 | 🌐 Go | 📅 2026-08-17
 * [SD Maid 2/SE](https://f-droid.org/en/packages/eu.darken.sdmse/) - Android's most thorough cleaning tool<br/>
-  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/d4rken-org/sdmaid-se/blob/main/CONTRIBUTING.md) ⭐ 7,292 | 🐛 24 | 🌐 Kotlin | 📅 2026-08-16
+  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/d4rken-org/sdmaid-se/blob/main/CONTRIBUTING.md) ⭐ 7,299 | 🐛 27 | 🌐 Kotlin | 📅 2026-08-17
 * [ZoneMinder](https://www.zoneminder.com/) - state-of-the-art video surveillance software system<br/>
-  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/ZoneMinder/ZoneMinder/) ⭐ 5,909 | 🐛 136 | 🌐 PHP | 📅 2026-08-16 [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.zoneminder.com/donate/)
-* [Neo-Store](https://github.com/NeoApplications/Neo-Store) ⭐ 4,909 | 🐛 129 | 🌐 Kotlin | 📅 2026-04-25 - A modern feature-rich F-Droid client<br/>
-  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/NeoApplications/Neo-Store) ⭐ 4,909 | 🐛 129 | 🌐 Kotlin | 📅 2026-04-25
+  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/ZoneMinder/ZoneMinder/) ⭐ 5,909 | 🐛 133 | 🌐 PHP | 📅 2026-08-16 [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.zoneminder.com/donate/)
+* [Neo-Store](https://github.com/NeoApplications/Neo-Store) ⭐ 4,910 | 🐛 130 | 🌐 Kotlin | 📅 2026-04-25 - A modern feature-rich F-Droid client<br/>
+  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/NeoApplications/Neo-Store) ⭐ 4,910 | 🐛 130 | 🌐 Kotlin | 📅 2026-04-25
 * [Hi.Events](https://hi.events) - Open-source and feature-packed event management and ticket selling platform.<br/>
-  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/HiEventsDev/Hi.Events) ⭐ 3,977 | 🐛 189 | 🌐 PHP | 📅 2026-08-13 [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://github.com/sponsors/HiEventsDev)
+  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/HiEventsDev/Hi.Events) ⭐ 3,979 | 🐛 189 | 🌐 PHP | 📅 2026-08-13 [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://github.com/sponsors/HiEventsDev)
 * [Common Voice](https://voice.mozilla.org/data) - open and publicly available dataset of voices<br/>
-  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/mozilla/voice-web/blob/master/CONTRIBUTING.md) ⭐ 3,479 | 🐛 186 | 🌐 TypeScript | 📅 2026-08-16 [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.mozilla.org/en-US/foundation/)
-* [HortusFox](https://github.com/danielbrendel/hortusfox-web) ⭐ 1,640 | 🐛 23 | 🌐 PHP | 📅 2026-07-31 - Self-hosted collaborative plant management system for your local environment<br/>
-  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/danielbrendel/hortusfox-web) ⭐ 1,640 | 🐛 23 | 🌐 PHP | 📅 2026-07-31 [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://ko-fi.com/danielbrendel)
+  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/mozilla/voice-web/blob/master/CONTRIBUTING.md) ⭐ 3,479 | 🐛 186 | 🌐 TypeScript | 📅 2026-08-17 [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.mozilla.org/en-US/foundation/)
+* [HortusFox](https://github.com/danielbrendel/hortusfox-web) ⭐ 1,641 | 🐛 23 | 🌐 PHP | 📅 2026-07-31 - Self-hosted collaborative plant management system for your local environment<br/>
+  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/danielbrendel/hortusfox-web) ⭐ 1,641 | 🐛 23 | 🌐 PHP | 📅 2026-07-31 [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://ko-fi.com/danielbrendel)
 * [Freeter](https://freeter.io/) - an app for Windows, Mac OSX and Linux that allows to gather everything you need for work in one place, organized by projects and workflows, and have a quick access to them<br/>
-  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/FreeterApp/Freeter) ⭐ 1,021 | 🐛 13 | 🌐 TypeScript | 📅 2026-05-27 [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://freeter.io/sponsor/)
+  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/FreeterApp/Freeter) ⭐ 1,022 | 🐛 13 | 🌐 TypeScript | 📅 2026-05-27 [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://freeter.io/sponsor/)
 * [AWStats](http://www.awstats.org/) - free powerful and featureful tool that generates advanced web, streaming, ftp or mail server statistics, graphically<br/>
   [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/eldy/awstats) ⭐ 434 | 🐛 136 | 🌐 Perl | 📅 2025-11-10 [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](http://www.awstats.org/)
-* [Qopy](https://github.com/0pandadev/qopy) ⭐ 396 | 🐛 23 | 🌐 Vue | 📅 2026-03-15 - Fast, Beautiful, Versatile clipboard manager written in Rust.<br/>
-  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/0pandadev/qopy) ⭐ 396 | 🐛 23 | 🌐 Vue | 📅 2026-03-15 [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://github.com/sponsors/0pandadev)
+* [Qopy](https://github.com/0pandadev/qopy) ⭐ 395 | 🐛 23 | 🌐 Vue | 📅 2026-03-15 - Fast, Beautiful, Versatile clipboard manager written in Rust.<br/>
+  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/0pandadev/qopy) ⭐ 395 | 🐛 23 | 🌐 Vue | 📅 2026-03-15 [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://github.com/sponsors/0pandadev)
 * [crypt.fyi](https://crypt.fyi) - Ephemeral zero-knowledge sensitive data sharing<br/>
   [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/osbytes/crypt.fyi) ⭐ 141 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-10
 * [FreedomBox](https://freedomboxfoundation.org/) - a community project to develop, design and promote personal servers running free software for distributed social networking, email and audio/video communications<br/>
@@ -429,9 +429,9 @@ You don't have to be a developer to contribute to your favorite open source proj
 ### Password Managers
 
 * [KeeWeb](https://keeweb.info/) - cross-platform password manager compatible with KeePass<br/>
-  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/keeweb/keeweb) ⭐ 12,978 | 🐛 441 | 🌐 HTML | 📅 2026-05-08 [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://github.com/keeweb/keeweb) ⭐ 12,978 | 🐛 441 | 🌐 HTML | 📅 2026-05-08
+  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/keeweb/keeweb) ⭐ 12,978 | 🐛 442 | 🌐 HTML | 📅 2026-05-08 [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://github.com/keeweb/keeweb) ⭐ 12,978 | 🐛 442 | 🌐 HTML | 📅 2026-05-08
 * [Password Safe](https://pwsafe.org/) - password manager<br/>
-  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/pwsafe/pwsafe) ⭐ 864 | 🐛 166 | 🌐 C++ | 📅 2026-08-16 [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://pwsafe.org/)
+  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/pwsafe/pwsafe) ⭐ 864 | 🐛 169 | 🌐 C++ | 📅 2026-08-17 [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://pwsafe.org/)
 * [Bitwarden](https://bitwarden.com/) - password manager<br/>
   [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/bitwarden)
 * [KeePass](http://keepass.info) - password manager<br/>
@@ -442,14 +442,14 @@ You don't have to be a developer to contribute to your favorite open source proj
 ### Payments
 
 * [HyperSwitch](https://hyperswitch.io/) - An Open Source Financial Switch to make Payments fast, reliable & affordable.<br/>
-  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/juspay/hyperswitch) ⭐ 43,491 | 🐛 2,075 | 🌐 Rust | 📅 2026-08-16
+  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/juspay/hyperswitch) ⭐ 43,501 | 🐛 2,088 | 🌐 Rust | 📅 2026-08-17
 
 ### Social
 
 * [Mastodon](https://joinmastodon.org/) - social network server<br/>
-  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/tootsuite/mastodon) ⭐ 50,212 | 🐛 4,491 | 🌐 Ruby | 📅 2026-08-16 [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.patreon.com/mastodon)
+  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/tootsuite/mastodon) ⭐ 50,218 | 🐛 4,484 | 🌐 Ruby | 📅 2026-08-17 [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.patreon.com/mastodon)
 * [Rocket.Chat](https://rocket.chat/) - the ultimate webchat platform<br/>
-  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/RocketChat/Rocket.Chat) ⭐ 45,990 | 🐛 3,968 | 🌐 TypeScript | 📅 2026-08-16 [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://github.com/RocketChat/Rocket.Chat#donate) ⭐ 45,990 | 🐛 3,968 | 🌐 TypeScript | 📅 2026-08-16
+  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/RocketChat/Rocket.Chat) ⭐ 45,997 | 🐛 3,976 | 🌐 TypeScript | 📅 2026-08-17 [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://github.com/RocketChat/Rocket.Chat#donate) ⭐ 45,997 | 🐛 3,976 | 🌐 TypeScript | 📅 2026-08-17
 * [Matrix](https://matrix.org/) - open network for secure, decentralized communication<br/>
   [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/matrix-org/synapse) ⚠️ Archived [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://matrix.org/blog/2017/07/07/a-call-to-arms-supporting-matrix/)
 * [Pidgin](https://pidgin.im/) - a universal instant messaging (IM) program<br/>
@@ -464,11 +464,11 @@ You don't have to be a developer to contribute to your favorite open source proj
 ### Text Editors
 
 * [Visual Studio Code](https://code.visualstudio.com/) - a code editor redefined and optimized for building and debugging modern web and cloud applications<br/>
-  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/Microsoft/vscode/wiki/How-to-Contribute) ⭐ 188,770 | 🐛 19,858 | 🌐 TypeScript | 📅 2026-08-16
+  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/Microsoft/vscode/wiki/How-to-Contribute) ⭐ 188,806 | 🐛 19,924 | 🌐 TypeScript | 📅 2026-08-17
 * [Vim](http://www.vim.org/sponsor/index.php) - a greatly improved version of the good old UNIX editor Vi<br/>
-  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/vim/vim/blob/master/CONTRIBUTING.md) ⭐ 40,739 | 🐛 1,636 | 🌐 Vim Script | 📅 2026-08-16 [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](http://www.vim.org/sponsor/index.php)
+  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/vim/vim/blob/master/CONTRIBUTING.md) ⭐ 40,746 | 🐛 1,646 | 🌐 Vim Script | 📅 2026-08-17 [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](http://www.vim.org/sponsor/index.php)
 * [Notepad++](http://www.notepad-plus-plus.org/) - a notepad replacement that supports several languages<br/>
-  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/notepad-plus-plus/notepad-plus-plus/blob/master/CONTRIBUTING.md) ⭐ 29,030 | 🐛 2,913 | 🌐 C++ | 📅 2026-08-13 [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](http://www.notepad-plus-plus.org/donate/)
+  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/notepad-plus-plus/notepad-plus-plus/blob/master/CONTRIBUTING.md) ⭐ 29,036 | 🐛 2,909 | 🌐 C++ | 📅 2026-08-17 [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](http://www.notepad-plus-plus.org/donate/)
 * [Treehouse](https://github.com/treehousedev/treehouse) ⭐ 188 | 🐛 20 | 🌐 TypeScript | 📅 2026-03-31 - a lightweight outliner app you can use in the browser or to build your own custom application.<br>
   [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/treehousedev/treehouse) ⭐ 188 | 🐛 20 | 🌐 TypeScript | 📅 2026-03-31
 * [Atom](https://atom.io/) - a hackable text editor for the 21st century, built on Electron,<br/>
@@ -487,13 +487,13 @@ You don't have to be a developer to contribute to your favorite open source proj
 ### Video Software
 
 * [Open Broadcaster Software](https://obsproject.com/) - streaming and recording program maintained by the OBS Project<br/>
-  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/jp9000/obs-studio) ⭐ 75,085 | 🐛 1,173 | 🌐 C | 📅 2026-08-15 [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://obsproject.com/donate)
+  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/jp9000/obs-studio) ⭐ 75,124 | 🐛 1,177 | 🌐 C | 📅 2026-08-15 [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://obsproject.com/donate)
 * [HandBrake](https://handbrake.fr/) - a GPL-licensed, multiplatform, multithreaded video transcoder<br/>
-  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/HandBrake/HandBrake) ⭐ 24,019 | 🐛 289 | 🌐 C | 📅 2026-08-16
+  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/HandBrake/HandBrake) ⭐ 24,041 | 🐛 291 | 🌐 C | 📅 2026-08-16
 * [Shotcut](https://shotcut.org/) - a free, open source, cross-platform video editor<br/>
-  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/mltframework/shotcut) ⭐ 14,926 | 🐛 56 | 🌐 C++ | 📅 2026-08-16 [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://shotcut.org/download/)
+  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/mltframework/shotcut) ⭐ 14,931 | 🐛 57 | 🌐 C++ | 📅 2026-08-17 [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://shotcut.org/download/)
 * [OpenShot Video Editor](https://www.openshot.org/) - a video editor for FreeBSD, Linux, macOS, and Windows<br/>
-  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/OpenShot/openshot-qt) ⭐ 6,170 | 🐛 400 | 🌐 Python | 📅 2026-08-15 [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.openshot.org/donate/)
+  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/OpenShot/openshot-qt) ⭐ 6,175 | 🐛 400 | 🌐 Python | 📅 2026-08-15 [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://www.openshot.org/donate/)
 * [Avidemux](http://fixounet.free.fr/avidemux/) - video editing program designed for video editing and video processing<br/>
   [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/mean00/avidemux2) ⭐ 957 | 🐛 36 | 🌐 C | 📅 2026-08-16
 * [Kdenlive](https://kdenlive.org/) - a video editing software based on the MLT Framework, KDE and Qt<br/>
@@ -504,7 +504,7 @@ You don't have to be a developer to contribute to your favorite open source proj
 ### Web Browsers
 
 * [Brave](https://brave.com/) - an open source browser project with priority on speed and privacy based on Chromium<br/>
-  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/brave/brave-browser/blob/master/CONTRIBUTING.md) ⭐ 23,353 | 🐛 10,571 | 📅 2026-08-14<br/>
+  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/brave/brave-browser/blob/master/CONTRIBUTING.md) ⭐ 23,357 | 🐛 10,581 | 📅 2026-08-17<br/>
 * [Chromium](https://www.chromium.org/) - an open-source web browser project started by Google<br/>
   [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://www.chromium.org/developers/contributing-code)
 * [Falkon](https://invent.kde.org/network/falkon/) - a lightweight multiplatform web browser written in Qt Framework and using its web rendering engine QtWebEngine<br/>
@@ -530,4 +530,4 @@ You don't have to be a developer to contribute to your favorite open source proj
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
